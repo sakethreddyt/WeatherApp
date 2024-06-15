@@ -1,5 +1,12 @@
 # WeatherApp
 
+## Live Demo
+
+[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/index.html) :point_left:
+
+## Getting Started
+- Follow the live demo link and enjoy the site.
+
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
@@ -24,12 +31,6 @@ Additional description about the project and its features.
 - BOOTSTRAP
 - GITHUB ACTIONS
 
-## Live Demo
-
-[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/) :point_left:
-
-## Getting Started
-- Follow the live demo link and enjoy the site.
 
 ## 📝 License
 
