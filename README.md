@@ -2,7 +2,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/dist/index.html) :point_left:
+[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/dist/index.html) :point_left:  click here
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
@@ -17,19 +17,6 @@ Actual Weather:
 
 5-Day Forecast:
 ![screenshot](./assets/screenshot3.png)
-
-
-Additional description about the project and its features.
-
-## Built With
-
-- HTML 
-- CSS
-- JAVASCRIPT
-- NPM
-- WEBPACK
-- BOOTSTRAP
-- GITHUB ACTIONS
 
 
 ## 📝 License
