@@ -2,7 +2,7 @@
 
 ## Live Demo 
 
-[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/didt/index.html) :point_left:
+[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/dist/index.html) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
