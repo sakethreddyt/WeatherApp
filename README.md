@@ -1,6 +1,6 @@
 # WeatherApp
 
-## Live Demo
+## Live Demo 
 
 [Live Demo Link](https://sakethreddyt.github.io/WeatherApp/index.html) :point_left:
 
