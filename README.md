@@ -26,40 +26,10 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://samirpaulb.github.io/WeatherApp/) :point_left:
+[Live Demo Link](https://sakethreddyt.github.io/WeatherApp/) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
-
-### Usage
-- To get a local copy up and running follow these simple example steps.
-
-Clone the repository unto your local machine cd to the folder.
-
-
-### Prerequisites
-
-- A modern browser, up to date.  :muscle:
-
-### Run tests
-
-- There is no automated tests for this project.
-
-## Future features
-
-- Add extra functionality and a contact page.
-
-## Author
-
-👤 SAMIR PAUL
-- Github: [@SamirPaulb](https://github.com/SamirPaulb) 
-- Twitter: [@SamirPaulb](https://twitter.com/SamirPaulb) 
-- Linkedin: [samirpaul](https://www.linkedin.com/in/samirpaul/) 
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
 
 ## 📝 License
 
