@@ -7,6 +7,9 @@
 ## Getting Started
 - Follow the live demo link and enjoy the site.
 
+Team members:
+Tamma Siva Naga Saketh Reddy 
+
 >  A weather app that pulls from the OpenWeatherMap API to allow users to search for and view the forecast in cities worldwide. Built with JavaScript.
 
 Landing Page:
